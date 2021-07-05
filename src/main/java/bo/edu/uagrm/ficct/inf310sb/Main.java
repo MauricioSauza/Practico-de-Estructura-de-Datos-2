@@ -61,7 +61,7 @@ public class Main {
         System.out.println("Ejercicio 14 " + "El sucesor InOrden del nodo enviado es: " + tree.ejercicio14(nodo));
 
         System.out.println("Ejercicio 15");
-        //System.out.println("Ejercicio 15 " + "El predecesor InOrden del nodo enviado es: " + tree.ejercicio15(nodo));
+        System.out.println("Ejercicio 15 " + "El predecesor InOrden del nodo enviado es: " + tree.ejercicio15(nodo));
 
         System.out.println("Ejercicio 16");
         System.out.println("Ejercicio 16 " + "Encontrar la clave menor del árbol " + tree.ejercicio16());
